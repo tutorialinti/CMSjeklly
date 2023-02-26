@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the basic Jekyll starter site, with Netlify CMS integrated and using
   Netlify Identity for authentication.
 baseurl: "/CMSjeklly/" # the subpath of your site, e.g. /blog
-url: "https://github.com/tutorialinti/CMSjeklly" # the base hostname & protocol for your site, e.g. http://example.com
+url: "tutorialinti.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
